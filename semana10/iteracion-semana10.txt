@@ -1,0 +1,9 @@
+Las dos primeras tareas que realizaría serían validar los reportes recibidos y asignar los 
+reportes a los responsables, ya que garantizan que la información sea confiable y que cada 
+caso pueda atenderse de manera oportuna.
+
+Considero que una tarea está terminada cuando cumple con los siguientes criterios:
+
+* Se implementó correctamente y cumple con el objetivo planteado.
+* Se verificó que funciona sin errores.
+* Quedó documentada para que el equipo pueda consultarla y darle seguimiento.

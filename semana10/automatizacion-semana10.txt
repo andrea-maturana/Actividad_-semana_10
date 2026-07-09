@@ -1,0 +1,7 @@
+El flujo comenzaría cuando un responsable cambie el estado de una solicitud a pendiente de revisión. 
+
+En ese momento, n8n enviaría automáticamente un mensaje a un grupo de Telegram indicando que existe una nueva tarea por revisar 
+y recordando ingresar a la plataforma para darle seguimiento. 
+
+Por seguridad, el mensaje no debería incluir datos personales de los involucrados, archivos confidenciales ni información que pueda 
+identificar la ubicación exacta de una persona.

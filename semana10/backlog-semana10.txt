@@ -1,0 +1,8 @@
+Como líder comunitario, quiero validar los reportes recibidos para asegurar que la 
+información sea confiable antes de compartirla.
+
+Como habitante de la comunidad, quiero conocer el estado de los reportes enviados 
+para saber si ya están siendo atendidos.
+
+Como administrador, quiero asignar los reportes a los responsables correspondientes 
+para agilizar su gestión.
